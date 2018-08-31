@@ -1,0 +1,9 @@
+# used for testing
+terraform.tfvars
+
+# Compiled files
+*.tfstate
+*.tfstate.backup
+
+# Module directory
+.terraform/
